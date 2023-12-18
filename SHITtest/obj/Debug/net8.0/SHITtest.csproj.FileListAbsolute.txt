@@ -1,0 +1,17 @@
+C:\Users\Вика\source\repos\SHITtest\SHITtest\bin\Debug\net8.0\SHITtest.exe
+C:\Users\Вика\source\repos\SHITtest\SHITtest\bin\Debug\net8.0\SHITtest.deps.json
+C:\Users\Вика\source\repos\SHITtest\SHITtest\bin\Debug\net8.0\SHITtest.runtimeconfig.json
+C:\Users\Вика\source\repos\SHITtest\SHITtest\bin\Debug\net8.0\SHITtest.dll
+C:\Users\Вика\source\repos\SHITtest\SHITtest\bin\Debug\net8.0\SHITtest.pdb
+C:\Users\Вика\source\repos\SHITtest\SHITtest\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Вика\source\repos\SHITtest\SHITtest\obj\Debug\net8.0\SHITtest.csproj.AssemblyReference.cache
+C:\Users\Вика\source\repos\SHITtest\SHITtest\obj\Debug\net8.0\SHITtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вика\source\repos\SHITtest\SHITtest\obj\Debug\net8.0\SHITtest.AssemblyInfoInputs.cache
+C:\Users\Вика\source\repos\SHITtest\SHITtest\obj\Debug\net8.0\SHITtest.AssemblyInfo.cs
+C:\Users\Вика\source\repos\SHITtest\SHITtest\obj\Debug\net8.0\SHITtest.csproj.CoreCompileInputs.cache
+C:\Users\Вика\source\repos\SHITtest\SHITtest\obj\Debug\net8.0\SHITtest.csproj.CopyComplete
+C:\Users\Вика\source\repos\SHITtest\SHITtest\obj\Debug\net8.0\SHITtest.dll
+C:\Users\Вика\source\repos\SHITtest\SHITtest\obj\Debug\net8.0\refint\SHITtest.dll
+C:\Users\Вика\source\repos\SHITtest\SHITtest\obj\Debug\net8.0\SHITtest.pdb
+C:\Users\Вика\source\repos\SHITtest\SHITtest\obj\Debug\net8.0\SHITtest.genruntimeconfig.cache
+C:\Users\Вика\source\repos\SHITtest\SHITtest\obj\Debug\net8.0\ref\SHITtest.dll
